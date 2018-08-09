@@ -8,11 +8,11 @@ var emptyArray = []
 }
 
 function johnLennonFacts(arr){
-  var facts = []
+  var fact = []
   var i = 0
   while(i<facts.length){
-    facts.push(arr[i] + "!!!")
+    fact.push(arr[i] + "!!!")
   ++i
   }
-  return facts
+  return fact
 }
