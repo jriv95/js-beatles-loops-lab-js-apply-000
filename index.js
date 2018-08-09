@@ -10,7 +10,7 @@ var emptyArray = []
 function johnLennonFacts(arr){
   var fact = []
   var i = 0
-  while(i<facts.length){
+  while(i<fact.length){
     fact.push(arr[i] + "!!!")
   ++i
   }
