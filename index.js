@@ -12,6 +12,7 @@ function johnLennonFacts(arr){
   i = 0
   while(i<facts.length){
     facts.push(arr[i] + "!!!")
-  ++i 
+  ++i
   }
+  return facts
 }
