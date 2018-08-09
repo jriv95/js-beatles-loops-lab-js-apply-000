@@ -6,3 +6,12 @@ var emptyArray = []
   }
   return emptyArray
 }
+
+function johnLennonFacts(arr){
+  facts = []
+  i = 0
+  while(i<facts.length){
+    facts.push(arr[i] + "!!!")
+  ++i 
+  }
+}
